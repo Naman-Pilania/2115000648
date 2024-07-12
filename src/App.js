@@ -41,6 +41,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Average Calculator</h1>
+        <p></p>
         <form onSubmit={handleSubmit}>
           <input
             type="text"
@@ -55,10 +56,10 @@ function App() {
         {data && (
           <div className="result">
             <h2>Result</h2>
-            <p><h1>Previous Window State:</h1> {JSON.stringify(data.windowPrevState)}</p>
-            <p><h1>Current Window State:</h1> {JSON.stringify(data.windowCurrState)}</p>
-            <p><h1>Fetched Numbers:</h1> {JSON.stringify(data.numbers)}</p>
-            <p><h1>Average:</h1> {data.avg}</p>
+            <p>Previous Window State: {JSON.stringify(data.windowPrevState)}</p>
+            <p>Current Window State: {JSON.stringify(data.windowCurrState)}</p>
+            <p>Fetched Numbers: {JSON.stringify(data.numbers)}</p>
+            <p>Average: {data.avg}</p>
           </div>
         )}
       </header>
