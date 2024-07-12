@@ -1,7 +1,9 @@
 # Getting Started with Create React App
-## UI of this Project ![image](https://github.com/user-attachments/assets/09b88e17-1086-4e0b-897a-6fbe57898740)
+## UI of this Project ![image](https://github.com/user-attachments/assets/2552d319-fecf-4ee3-a7f4-4c1c1ee5d63e)
 
-![image](https://github.com/user-attachments/assets/12716883-ee19-4bb4-9149-5fb2becd0695)
+
+![image](https://github.com/user-attachments/assets/f320bf85-2b8f-48b8-b722-ad5b334ff3cf)
+
 
 # {
     "companyName": "Gla University",
