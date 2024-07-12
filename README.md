@@ -1,5 +1,9 @@
 # Getting Started with Create React App
-## UI of this Project ![image](https://github.com/user-attachments/assets/262e1701-e329-478d-bc48-54577bdf1a3d)
+## UI of this Project ![image](https://github.com/user-attachments/assets/09b88e17-1086-4e0b-897a-6fbe57898740)
+
+![image](https://github.com/user-attachments/assets/12716883-ee19-4bb4-9149-5fb2becd0695)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
