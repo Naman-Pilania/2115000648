@@ -3,7 +3,20 @@
 
 ![image](https://github.com/user-attachments/assets/12716883-ee19-4bb4-9149-5fb2becd0695)
 
+# {
+    "companyName": "Gla University",
+    "clientID": "57843a82-7a3e-435b-abb7-48f70cabff37",
+    "clientSecret": "YPDQUfQVDFCKzrni",
+    "ownerName": "Naman Pilania",
+    "ownerEmail": "naman.pilania_cs21@gla.ac.in",
+    "rollNo": "2115000648"
+}
 
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzIwNzc0MDY3LCJpYXQiOjE3MjA3NzM3NjcsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjU3ODQzYTgyLTdhM2UtNDM1Yi1hYmI3LTQ4ZjcwY2FiZmYzNyIsInN1YiI6Im5hbWFuLnBpbGFuaWFfY3MyMUBnbGEuYWMuaW4ifSwiY29tcGFueU5hbWUiOiJHbGEgVW5pdmVyc2l0eSIsImNsaWVudElEIjoiNTc4NDNhODItN2EzZS00MzViLWFiYjctNDhmNzBjYWJmZjM3IiwiY2xpZW50U2VjcmV0IjoiWVBEUVVmUVZERkNLenJuaSIsIm93bmVyTmFtZSI6Ik5hbWFuIFBpbGFuaWEiLCJvd25lckVtYWlsIjoibmFtYW4ucGlsYW5pYV9jczIxQGdsYS5hYy5pbiIsInJvbGxObyI6IjIxMTUwMDA2NDgifQ.PrjyIWUytxL1c1e0iucix8ANopdcDJRKGb1rG8L-2S8",
+    "expires_in": 1720774067
+}
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
